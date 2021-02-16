@@ -1,7 +1,6 @@
 ---
-layout :post
+layout: post
 title: No Backlogs
-published: true
 
 ---
 
