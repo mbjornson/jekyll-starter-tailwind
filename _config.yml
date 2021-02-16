@@ -1,5 +1,8 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
+title: No Backlogs
+description: Focus on the essential: the needs of your customer
+
+
+page_excerpts: true
 
 exclude:
   - Gemfile

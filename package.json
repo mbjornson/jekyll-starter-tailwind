@@ -11,7 +11,7 @@
     "cross-env": "7.0.3",
     "cross-spawn": "7.0.3",
     "cssnano": "4.1.10",
-    "gulp": "4.0.2",
+    "gulp": "^4.0.2",
     "gulp-postcss": "9.0.0",
     "postcss": "8.2.1",
     "postcss-import": "14.0.0",
@@ -38,5 +38,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.0"
   }
 }
