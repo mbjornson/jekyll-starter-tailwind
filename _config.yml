@@ -1,9 +1,9 @@
 title: No Backlogs
-description: 'Focus on the essential: the needs of your customer'
-url: 'https://nobacklog.co'
-baseurl: '/'
+description: "Focus on the essential: the needs of your customer"
+url: "https://nobacklog.co"
+baseurl: "/"
 
-# destination: _site
+destination: _site
 # permalink: /:year/:month/:day/:title/
 # tag_permalink_style: pretty
 # tag_page_layout: tag_page
