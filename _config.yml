@@ -2,6 +2,7 @@ title: No Backlogs
 description: "Focus on the essential: the needs of your customer"
 url: "https://nobacklog.co"
 baseurl: "/"
+google_analytics: 'G-4DYHHFRN9E'
 
 destination: _site
 # permalink: /:year/:month/:day/:title/
